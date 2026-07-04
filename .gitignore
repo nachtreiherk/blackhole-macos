@@ -1,0 +1,8 @@
+_build/
+*.app
+.DS_Store
+build/
+*.mode*
+*.pbxuser
+*.perspectivev3
+xcuserdata/
