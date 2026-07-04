@@ -1,4 +1,7 @@
-# Black Hole macOS
+# Blackhole-macOS
+
+> [!NOTE]
+> 基于 [huiyeruzhou/ghostty-blackhole-macos](https://github.com/huiyeruzhou/ghostty-blackhole-macos) 修改，原项目作者 [huiyeruzhou](https://github.com/huiyeruzhou) · [XboxNahida](https://github.com/XboxNahida) · [MoMing-ink](https://github.com/MoMing-ink)
 
 黑洞屏保 macOS 菜单栏应用。基于 Eric Bruneton 的黑洞着色器，实时渲染引力透镜效果。
 
@@ -25,14 +28,6 @@ open _build/macos/blackhole-macos.app
 ## 使用
 首次运行需在 **系统设置 → 隐私与安全性 → 屏幕录制** 中授权，方可捕捉桌面实现透镜效果。
 点击菜单栏图标打开下拉菜单，选择模式、闲置时间和预设后点 Start。
-
-## 原作者
-基于 [huiyeruzhou/ghostty-blackhole-macos](https://github.com/huiyeruzhou/ghostty-blackhole-macos) 修改
-
-原项目贡献者：
-- [huiyeruzhou](https://github.com/huiyeruzhou)
-- [XboxNahida](https://github.com/XboxNahida)
-- [MoMing-ink](https://github.com/MoMing-ink)
 
 ## 许可证
 MIT
